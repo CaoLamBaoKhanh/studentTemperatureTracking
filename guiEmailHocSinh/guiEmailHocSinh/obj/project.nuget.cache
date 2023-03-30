@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0dr/9J50Kylz7N2j8HK2WwM4YrxhdEzbe4gZOQJORriDYoi7ktk3h1fqNVJhdQjE/k/3AQyotJ0h1wMLQdWipw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Khanh\\Đại học 2022-2023\\Intern_IDB\\guiEmailHocSinh\\guiEmailHocSinh\\guiEmailHocSinh\\guiEmailHocSinh.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Khanh\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\Khanh\Đại học 2022-2023\Intern_IDB\guiEmailHocSinh\guiEmailHocSinh\guiEmailHocSinh\bin\Debug\net6.0\guiEmailHocSinh.exe
+C:\Users\Khanh\Đại học 2022-2023\Intern_IDB\guiEmailHocSinh\guiEmailHocSinh\guiEmailHocSinh\bin\Debug\net6.0\guiEmailHocSinh.deps.json
+C:\Users\Khanh\Đại học 2022-2023\Intern_IDB\guiEmailHocSinh\guiEmailHocSinh\guiEmailHocSinh\bin\Debug\net6.0\guiEmailHocSinh.runtimeconfig.json
+C:\Users\Khanh\Đại học 2022-2023\Intern_IDB\guiEmailHocSinh\guiEmailHocSinh\guiEmailHocSinh\bin\Debug\net6.0\guiEmailHocSinh.dll
+C:\Users\Khanh\Đại học 2022-2023\Intern_IDB\guiEmailHocSinh\guiEmailHocSinh\guiEmailHocSinh\bin\Debug\net6.0\guiEmailHocSinh.pdb
+C:\Users\Khanh\Đại học 2022-2023\Intern_IDB\guiEmailHocSinh\guiEmailHocSinh\guiEmailHocSinh\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Khanh\Đại học 2022-2023\Intern_IDB\guiEmailHocSinh\guiEmailHocSinh\guiEmailHocSinh\obj\Debug\net6.0\guiEmailHocSinh.csproj.AssemblyReference.cache
+C:\Users\Khanh\Đại học 2022-2023\Intern_IDB\guiEmailHocSinh\guiEmailHocSinh\guiEmailHocSinh\obj\Debug\net6.0\guiEmailHocSinh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khanh\Đại học 2022-2023\Intern_IDB\guiEmailHocSinh\guiEmailHocSinh\guiEmailHocSinh\obj\Debug\net6.0\guiEmailHocSinh.AssemblyInfoInputs.cache
+C:\Users\Khanh\Đại học 2022-2023\Intern_IDB\guiEmailHocSinh\guiEmailHocSinh\guiEmailHocSinh\obj\Debug\net6.0\guiEmailHocSinh.AssemblyInfo.cs
+C:\Users\Khanh\Đại học 2022-2023\Intern_IDB\guiEmailHocSinh\guiEmailHocSinh\guiEmailHocSinh\obj\Debug\net6.0\guiEmailHocSinh.csproj.CoreCompileInputs.cache
+C:\Users\Khanh\Đại học 2022-2023\Intern_IDB\guiEmailHocSinh\guiEmailHocSinh\guiEmailHocSinh\obj\Debug\net6.0\guiEmailHocSinh.csproj.CopyComplete
+C:\Users\Khanh\Đại học 2022-2023\Intern_IDB\guiEmailHocSinh\guiEmailHocSinh\guiEmailHocSinh\obj\Debug\net6.0\guiEmailHocSinh.dll
+C:\Users\Khanh\Đại học 2022-2023\Intern_IDB\guiEmailHocSinh\guiEmailHocSinh\guiEmailHocSinh\obj\Debug\net6.0\refint\guiEmailHocSinh.dll
+C:\Users\Khanh\Đại học 2022-2023\Intern_IDB\guiEmailHocSinh\guiEmailHocSinh\guiEmailHocSinh\obj\Debug\net6.0\guiEmailHocSinh.pdb
+C:\Users\Khanh\Đại học 2022-2023\Intern_IDB\guiEmailHocSinh\guiEmailHocSinh\guiEmailHocSinh\obj\Debug\net6.0\guiEmailHocSinh.genruntimeconfig.cache
+C:\Users\Khanh\Đại học 2022-2023\Intern_IDB\guiEmailHocSinh\guiEmailHocSinh\guiEmailHocSinh\obj\Debug\net6.0\ref\guiEmailHocSinh.dll
